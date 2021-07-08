@@ -7,4 +7,10 @@ class PagesController < ApplicationController
 
   def contact
   end
+
+  def skills
+  end
+
+  def projects
+  end
 end

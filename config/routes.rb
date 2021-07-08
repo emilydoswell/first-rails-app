@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   # verb         to: controller#action
   get '/about', to: "pages#about"
   get '/contact', to: "pages#contact"
+  get '/skills', to: "pages#skills"
+  get '/projects',  to: "pages#projects"
 end
