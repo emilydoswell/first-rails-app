@@ -3,6 +3,6 @@ Rails.application.routes.draw do
   # Home page, no path.
   root to: 'pages#home'
   # verb         to: controller#action
-  get '/about', to: "pages#about", as:about_us
+  get '/about', to: "pages#about"
   get '/contact', to: "pages#contact"
 end
