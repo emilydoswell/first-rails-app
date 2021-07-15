@@ -1,7 +1,6 @@
-# README
+# My Online Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Website created to display the projects I've created over the year and show off a little more about myself.
 
 Things you may want to cover:
 
